@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Mon, 21 Dec 2015 14:23:10 +0100
+Reviewed-on: https://review.gerrithub.io/255839
+Project: rdo-puppet-modules/puppetlabs-corosync
+Branch: refs/heads/recomb-original-master-f738f1ca07958f328848f2f11d4b81fd1cbd0a8a
